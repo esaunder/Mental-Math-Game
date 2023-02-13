@@ -69,36 +69,30 @@ These changes are significant but they will definitely improve the game by a lar
 ## Development Changelog
 November 12th, 2019: Project outline drafted
 
-November 15th, 2019: I researched how to make a GUI in Java
+November 15th, 2019: I researched how to make a GUI in Java.
 
-January 24th, 2018: Tailai has PISKEL and PNG files created for basic 2-player movement.
+November 17th, 2019: Implemented 4 buttons and the textbox that will be used for all of the game's interactive elements.
 
-January 25th, 2018: Tailai updated TenaciousTanks.java to test out KeyListener.
+November 19th, 2019: Developed the gameplay loop strucure that loops through several arrays that provide the strings and data required for each encounter.
 
-January 26th, 2018: Cameron has map generation with an added background JPG file.
+November 22nd, 2019: Created the math question generator function and tested it to ensure the answers to the output questions are correct.
 
-January 27th, 2018: Cameron debugged map generation and integrated with TenaciousTanks.java.
-Tanks now fall from the sky on initial startup.
-Rescaled tank images can now sit on the terrain while moving and at rest.
-Began tank object class (deals with health, damage, etc).
+November 25th, 2019: Added health and mp values and added a game reset when a game over occurs. Tested gameplay loop to ensure it functions as intended.
 
-February 5th, 2018: Cameron finished angle and movement inputs from users.
+November 27th, 2019: Added the ability to add shops to the game and the ability to collect and spend gold to buy potions.
 
-February 6th, 2018: Cameron created the turning process. Each player has a selection phase and a shooting phase.
-Tailai created and implemented turn images for each user.
+November 30th, 2019: Researched how to display images and collected images for the enemies, background, and health bar.
 
-February 7th, 2018: Cameron finished the movement restriction for tanks. (Can only move up to 50 pixels left or right during the selection phase)
+December 2nd, 2019: Images and enemy data are stored in arrays and I ensure images are displaying properly in the program.
 
-February 8th, 2018: Cameron started bullet class.  
-Bullets now fly using power, angle, and positions given by users.  
-Bullets are affected by "gravity" and end turn when it collides with ground and tank rectangles.
+December 4th, 2019: Health bar is added using hearts and I start development on the Music class.
 
-February 9th, 2018: Tailai made an Update to GamePanel and TenaciousTanks. The game now has text displays and damage is calculated with collisions.  
-Cameron created power for bullets. Users can now select a power between 0 and 100.
+December 6th, 2019: Music class is completed and a music array is created to store the file names of the .wav files.
 
-February 12th, 2018: Tailai made an Update to all files, allowing players to actually win the game. No Play Again button yet though...
+December 10th, 2019: A timer is implemented to add some very basic animation
 
-February 16th, 2018: Cameron created the menu and instruction screens. Players can now go through the menu and instructions before starting the game. When the game finishes, players can choose to play again (all variables will reset) or exit the window.  
-Tailai and Cameron added explosion sprites for bullet impacts. Added a new Python 3.2 file that splits sprites into png. files. Added explosion animation and polished up User Interface. Comments added to code.
+December 11th, 2019: Enemy images are changed to move up and down now. Attack animations are added as well.
 
-February 16th, 2018: Project finished.
+January 6th, 2020: Major bugs are resolved and testing begins.
+
+January 20th, 2020: Project finished and submitted.

@@ -3,7 +3,7 @@ A turn-based game where you need to answer math questions to attack the enemy ma
 
 By [Ethan Saunders](https://github.com/esaundere) 
 Course: Computer Science ICS4UD (Grade 12 IB program course)  
-Date: February 16th, 2018  
+Date: January 20th, 2020  
 Grade: 96% (level 6)
 
 !(assets/TenaciousTanksGif.gif)  

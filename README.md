@@ -1,12 +1,12 @@
 # Mental-Math-Game
-A turn-based game where you need to answer math questions to attack the enemy made using Java. ([Demo Video](https://youtu.be/iMbGX3d2MWY))
+A turn-based game where you need to answer math questions to attack the enemy made using Java. ([Demo Video](https://youtu.be/xOqi7ggbNU8))
 
 By [Ethan Saunders](https://github.com/esaundere) 
 Course: Computer Science ICS4UD (Grade 12 IB program course)  
 Date: January 20th, 2020  
 Grade: 96% (level 6)
 
-!(assets/TenaciousTanksGif.gif)  
+!(Assets/demo.gif)  
 
 ## Table of Contents
 [1. Intro](#Intro)  
@@ -25,7 +25,7 @@ This game was made using Java. It utilizes basic object-oriented programming and
 
 ## Gameplay
 
-Check out the demo video for this project [here](https://youtu.be/iMbGX3d2MWY)!
+Check out the demo video for this project [here](https://youtu.be/xOqi7ggbNU8)!
 
 ![Tenacious Tanks Main](assets/TenaciousTanksMain.png)  
 ![Tenacious Tanks Game](assets/TenaciousTanksGame.png)

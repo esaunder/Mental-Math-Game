@@ -6,7 +6,7 @@ Course: Computer Science ICS4UD (Grade 12 IB program course)
 Date: January 20th, 2020  
 Grade: 96% (level 6)
 
-!(Assets/demo.gif)  
+![Mental Math Game Gif](Assets/demo.gif)  
 
 ## Table of Contents
 [1. Intro](#Intro)  

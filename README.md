@@ -27,8 +27,8 @@ This game was made using Java. It utilizes basic object-oriented programming and
 
 Check out the demo video for this project [here](https://youtu.be/xOqi7ggbNU8)!
 
-![Tenacious Tanks Main](assets/TenaciousTanksMain.png)  
-![Tenacious Tanks Game](assets/TenaciousTanksGame.png)
+![Mental Math Game Battle](Assets/battle.png)  
+![Mental Math Game Attack](Assets/attack.png)
 
 ## Environment Setup
 
